@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">Student_Material_Design</string>
+    <string name="app_name">Student</string>
+    <string name="student1">Жанатпаева Динара</string>
+    <string name="student2">Кузьмина Диана</string>
+    <string name="student3">Лойко Арина</string>
+    <string name="student4">Спиридонова Саша</string>
+    <string name="student5">Шмаль</string>
+    <string name="student6">Зорин Роман</string>
+    <string name="student7">Пономарева Наташа</string>
+    <string name="student8">Федотова Виктория</string>
+    <string name="student9">Лободина Вероника</string>
+
+    <string name="student1_desc">Радиант в валоранте</string>
+    <string name="student2_desc">Пикмуха и второй радиант в валорнате. Да вообще куртая девочка. Очень добрая и крутая вообще каец полный </string>
+    <string name="student3_desc">Вудущий телеканала РЕНТВ</string>
+    <string name="student4_desc">Будущий байкер и вкусно пахнущими духами</string>
+    <string name="student5_desc">Шмаль      .</string>
+    <string name="student6_desc">10/0</string>
+    <string name="student7_desc">А где она?</string>
+    <string name="student8_desc">Умная девочка</string>
+    <string name="student9_desc">Староста.</string>
+
+    <string name="years_old">%d лет</string>
+
 </resources>
